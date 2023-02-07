@@ -64,22 +64,23 @@ puts "Part 2"
 # Make sure YOU can explain it that way!
 
 puts 4 < 9
-#YOU DO: Explain.
+#YOU DO: print the result of comparison: is 4 less than 9?
 
 books = 3
 puts 4 < books
-# YOU DO: Explain.
+# YOU DO: print the result of comparison: is 4 less than books?
 
 friends = 6
 siblings = 2
 puts friends > siblings
-# YOU DO: Explain.
+# YOU DO: print the result of comparison: is friends greater than siblings?
 
 attendees = 9
 meals = 8
 puts attendees != meals
-# YOU DO: Explain.
+# YOU DO: print the result of comparison: is attendees not equal to meals
 
+puts "Part 3"
 
 #-------------------
 # PART 3: Logical Operators
